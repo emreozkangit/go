@@ -9,4 +9,6 @@ func main() {
 	fmt.Println(x)
 	y := 100 + 25
 	fmt.Println(y)
+	z := "bond,James"
+	fmt.Println(z)
 }
